@@ -34,13 +34,13 @@ El sistema está dividido en dos proyectos independientes:
 
 API REST desarrollada con Spring Boot.
 
-👉 [Ver repositorio del Backend](https://github.com/Ethan7FJ/hosting-api)
+👉 [Ver repositorio del Backend](AQUI_TU_LINK_BACKEND)
 
 ### Frontend
 
 Aplicación web desarrollada con Next.js que consume la API.
 
-👉 [Ver repositorio del Frontend](https://github.com/Ethan7FJ/hosting-frontend)
+👉 [Ver repositorio del Frontend](AQUI_TU_LINK_FRONTEND)
 
 ---
 
