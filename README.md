@@ -395,6 +395,9 @@ Puedes consultar el proyecto frontend aquí:
 ---
 
 # 👨‍💻 Autor
-Johan Esteven Ruiz Feecua
+
+Johan Esteven Ruiz Fetecua
+
 Tel: 3043516414
+
 Desarrollado como parte de una prueba técnica.
