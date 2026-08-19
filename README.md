@@ -390,7 +390,7 @@ El frontend cuenta con interfaces para la gestión de los diferentes recursos de
 
 Puedes consultar el proyecto frontend aquí:
 
-👉 [Hosting Management Frontend](AQUI_TU_LINK_FRONTEND)
+👉 [Hosting Management Frontend](https://github.com/Ethan7FJ/hosting-frontend)
 
 ---
 
