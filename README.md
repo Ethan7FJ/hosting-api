@@ -34,13 +34,13 @@ El sistema está dividido en dos proyectos independientes:
 
 API REST desarrollada con Spring Boot.
 
-👉 [Ver repositorio del Backend](AQUI_TU_LINK_BACKEND)
+👉 [Ver repositorio del Backend](https://github.com/Ethan7FJ/hosting-api)
 
 ### Frontend
 
 Aplicación web desarrollada con Next.js que consume la API.
 
-👉 [Ver repositorio del Frontend](AQUI_TU_LINK_FRONTEND)
+👉 [Ver repositorio del Frontend](https://github.com/Ethan7FJ/hosting-frontend)
 
 ---
 
@@ -60,7 +60,7 @@ El proyecto utiliza H2 como base de datos relacional en memoria, por lo que no e
 Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/Ethan7FJ/hosting-api>
 ```
 
 Entrar al proyecto:
@@ -303,7 +303,7 @@ Las reglas de negocio relacionadas con los dominios son validadas por el backend
 Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO_FRONTEND>
+git clone <https://github.com/Ethan7FJ/hosting-frontend>
 ```
 
 Entrar al proyecto:
